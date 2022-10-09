@@ -1,0 +1,12 @@
+{
+    "item.gipple.gipple_spawn_egg": "Gipple Spawn Egg",
+    "item.gipple.mega_gipple_spawn_egg": "Mega Gipple Spawn Egg",
+
+    "item.gipple.gelatin": "Gelatin",
+    "item.gipple.gelatin_soup": "Gelatin Soup",
+
+    "entity.gipple.gipple": "Gipple",
+    "entity.gipple.mega_gipple": "Mega Gipple",
+
+    "subtitles.gipple.gipple_ambient": "Gipple Spits"
+}

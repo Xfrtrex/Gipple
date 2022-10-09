@@ -1,0 +1,11 @@
+{
+  "entity.gipple.gipple_ambient": {
+    "category": "neutral",
+	"subtitle": "subtitles.gipple.gipple_ambient",
+    "sounds": [
+      "gipple:entity/gipple/ambient1",
+	  "gipple:entity/gipple/ambient2",
+	  "gipple:entity/gipple/ambient3"
+    ]
+  }
+}

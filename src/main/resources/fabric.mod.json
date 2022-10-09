@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "gipple",
+  "version": "${version}",
+
+  "name": "Gipple",
+  "description": "Gipples.",
+  "authors": [
+    "Rowan",
+    "Trident",
+    "KingRolly",
+    "Plushbee"
+  ],
+  "contact": {},
+
+  "license": "MIT",
+  "icon": "assets/gipple/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "net.giplets.gipple.gipple.client.GippleClient"
+    ],
+    "main": [
+      "net.giplets.gipple.gipple.Gipple"
+    ]
+  },
+          "mixins": [
+        "gipple.mixins.json"
+      ],
+  "depends": {
+    "fabricloader": ">=0.14.9",
+              "fabric": "*",
+          "minecraft": "1.19.x"
+  }
+}
